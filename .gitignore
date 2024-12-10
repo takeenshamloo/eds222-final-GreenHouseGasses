@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore data folder from pushing.
+data/*
+
+# Other misc files to ignore.
+.DS_Store
+notebooks/.DS_Store
